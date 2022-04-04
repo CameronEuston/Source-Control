@@ -1,12 +1,18 @@
 https://github.com/cadon/ARKStatsExtractor
-This project tracks the stats of creatures in a game called Ark. I find this interesting because there is a lot to consider when it comes to calculating the stats for your
+This program tracks the stats of creatures in a game called Ark. I find this interesting because there is a lot to consider when it comes to calculating the stats for your
 dinos when it comes to breeding.
 
 https://github.com/kellygravelyn/UnityToolbag
-
+This repo adds a lot of tools to use in unity. I find this interesting because there are so many thing in this repo that I could use in some of my unity projects such as 
+snap to surface tools and 2D sprite animators.
 
 https://github.com/samhogan/Minecraft-Unity3D
+This repo is a unity project that contains a Minecraft clone that someone made in 24 hours. I find this interesting because I think it is cool to challenge yourself with challenges
+like that.
 
 https://github.com/Gedemon/Civ6-YnAMP
+This repo contains a Civilization 6 mod. I find this interesting because it is something that I could get and play with my brother and cousin because we all like to play Civ together.
 
 https://github.com/bavalia/euclidean_4D_visualizer
+This github repo displays 4D objects in 2D and 3D space. I find this interesting because I have always wondered what 4D would look like and the fact that this is an
+open source project that I can download and experiment with is cool.
